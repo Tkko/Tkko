@@ -3,10 +3,10 @@
 
 - 🔭 Application Development Team Lead.
 - 💬 Ask me about anything.
--  📫 How to reach me: <a href="https://linkedin.com/in/tornike-kurdadze">
+- 📫 How to reach me: <a href="https://linkedin.com/in/tornike-kurdadze">
   <img align="left" alt="Tornike's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-- ☝️Open to Remote/Relocate
+- ☝️ Open to Remote/Relocate
 - 💡 To get readme like this, create a repository with a name that matches your GitHub username.
 
 
