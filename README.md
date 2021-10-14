@@ -17,4 +17,12 @@
 
 ![Utsav's Profile Visit](https://komarev.com/ghpvc/?username=Tkko&color=green&label=Profile+Views)
 
-<img src="https://github-readme-stats.vercel.app/api?username=tkko&count_private=true&show_icons=true&include_all_commits=true&theme=calm">
+!<img src="https://github-readme-stats.vercel.app/api?username=tkko&count_private=true&show_icons=true&include_all_commits=true&theme=calm">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=convoychat" />
+</a>
+
