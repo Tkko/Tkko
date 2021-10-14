@@ -17,12 +17,19 @@
 
 ![Utsav's Profile Visit](https://komarev.com/ghpvc/?username=Tkko&color=green&label=Profile+Views)
 
-!<img src="https://github-readme-stats.vercel.app/api?username=tkko&count_private=true&show_icons=true&include_all_commits=true&theme=calm">
+<img src="https://github-readme-stats.vercel.app/api?username=tkko&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=github-readme-stats" />
+<a href="https://github.com/tkko/Flutter_pinput">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=Flutter_pinput&theme=vue-dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=convoychat" />
+
+<a href="https://github.com/Tkko/Flutter_dismissible_page">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=Flutter_dismissible_page&theme=vue-dark" />
 </a>
+<br></br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkko&langs_count=3&theme=vue-dark)](https://github.com/tkko)
+
+
+
 
