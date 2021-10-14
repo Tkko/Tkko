@@ -16,3 +16,5 @@
 
 
 ![Utsav's Profile Visit](https://komarev.com/ghpvc/?username=Tkko&color=green&label=Profile+Views)
+
+<img src="https://github-readme-stats.vercel.app/api?username=okradze&count_private=true&show_icons=true&include_all_commits=true&theme=calm">
