@@ -16,9 +16,9 @@
 
 ![Profile Visit](https://komarev.com/ghpvc/?username=Tkko&color=green&label=Profile+Views)
 
-[![Pinput](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=Flutter_pinput)](https://github.com/tkko/Flutter_pinput?theme=vue-dark)
-[![Dismissible Page](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=Flutter_dismissible_page)](https://github.com/tkko/Flutter_dismissible_page?theme=vue-dark)
-[![Pinput](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=top_freelance_platforms_and_referrals)](https://github.com/tkko/top_freelance_platforms_and_referrals?theme=vue-dark)
+[![Pinput](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=Flutter_pinput&theme=vue-dark)](https://github.com/tkko/Flutter_pinput)
+[![Dismissible Page](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=Flutter_dismissible_page&theme=vue-dark)](https://github.com/tkko/Flutter_dismissible_page)
+[![Top Freelance Platforms And Referrals](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=top_freelance_platforms_and_referrals&theme=vue-dark)](https://github.com/tkko/top_freelance_platforms_and_referrals)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkko&langs_count=3&theme=vue-dark)](https://github.com/tkko)
 
