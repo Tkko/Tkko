@@ -14,22 +14,11 @@
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](#) [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](#)
 
 
+![Profile Visit](https://komarev.com/ghpvc/?username=Tkko&color=green&label=Profile+Views)
 
-![Utsav's Profile Visit](https://komarev.com/ghpvc/?username=Tkko&color=green&label=Profile+Views)
-
-<img src="https://github-readme-stats.vercel.app/api?username=tkko&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark">
-
-<a href="https://github.com/tkko/Flutter_pinput">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=Flutter_pinput&theme=vue-dark" />
-</a>
-
-<a href="https://github.com/Tkko/Flutter_dismissible_page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=Flutter_dismissible_page&theme=vue-dark" />
-</a>
-<br></br>
+[![Pinput](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=Flutter_pinput)](https://github.com/tkko/Flutter_pinput?theme=vue-dark)
+[![Dismissible Page](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=Flutter_dismissible_page)](https://github.com/tkko/Flutter_dismissible_page?theme=vue-dark)
+[![Pinput](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=top_freelance_platforms_and_referrals)](https://github.com/tkko/top_freelance_platforms_and_referrals?theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkko&langs_count=3&theme=vue-dark)](https://github.com/tkko)
-
-
-
 
