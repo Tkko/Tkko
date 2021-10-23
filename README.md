@@ -1,10 +1,9 @@
 
 ### Hi there 👋
 
-- 🔭 Application Development Team Lead.
-- 💬 Ask me about anything.
--  📫 How to reach me: <a href="https://linkedin.com/in/tornike-kurdadze">LinkedIn</a>
-- ☝️Open to Remote/Relocate
+- 🚀 Mobile Engineer
+- 📫 How to reach me: <a href="https://linkedin.com/in/tornike-kurdadze">LinkedIn</a>
+- ☝️ Open to Remote/Relocate
 - 💡 To get readme like this, create a repository with a name that matches your GitHub username.
 
 
