@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 - 🚀 Mobile Engineer
-- 📫 How to reach me: <a href="https://linkedin.com/in/tornike-kurdadze">LinkedIn</a>
+- 📫 How to reach me: <a href="https://linkedin.com/in/thornike">LinkedIn</a>
 - ☝️ Open to Remote/Relocate
 - 💡 To get readme like this, create a repository with a name that matches your GitHub username.
 
@@ -19,6 +19,3 @@
 [![Dismissible Page](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=Flutter_dismissible_page&theme=vue-dark)](https://github.com/tkko/Flutter_dismissible_page)
 [![Handle Network Errors in Flutter App](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=flutter_handle_network_errors&theme=vue-dark)](https://github.com/tkko/flutter_handle_network_errors)
 [![Top Freelance Platforms And Referrals](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=top_freelance_platforms_and_referrals&theme=vue-dark)](https://github.com/tkko/top_freelance_platforms_and_referrals)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkko&langs_count=3&theme=vue-dark)](https://github.com/tkko)
-
