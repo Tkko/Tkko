@@ -15,7 +15,7 @@
 
 ![Profile Visit](https://komarev.com/ghpvc/?username=Tkko&color=green&label=Profile+Views)
 
-[![Pinput](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=Flutter_pinput&theme=vue-dark)](https://github.com/tkko/Flutter_pinput)
-[![Dismissible Page](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=Flutter_dismissible_page&theme=vue-dark)](https://github.com/tkko/Flutter_dismissible_page)
-[![Flutter Smart Auth](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=flutter_smart_auth&theme=vue-dark)](https://github.com/Tkko/flutter_smart_auth)
+[![Pinput](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=Flutter_pinput&hide=cpp,c++,cmake,html&theme=vue-dark)](https://github.com/tkko/Flutter_pinput)
+[![Dismissible Page](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=Flutter_dismissible_page&hide=cpp,c++,cmake,html&theme=vue-dark)](https://github.com/tkko/Flutter_dismissible_page)
+[![Flutter Smart Auth](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=flutter_smart_auth&hide=cpp,c++,cmake,html&theme=vue-dark)](https://github.com/Tkko/flutter_smart_auth)
 [![Top Freelance Platforms And Referrals](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=top_freelance_platforms_and_referrals&theme=vue-dark)](https://github.com/tkko/top_freelance_platforms_and_referrals)
