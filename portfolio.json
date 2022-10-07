@@ -1,0 +1,121 @@
+{
+  "name": "Tornike Kurdadze",
+  "title": "Flutter Engineer, Building Pixel Perfect Mobile/Web Apps",
+  "location": "Tbilisi, Georgia",
+  "summery": "",
+  "experiences": [
+    {
+      "company": "Netguru",
+      "position": "Senior Flutter Engineer",
+      "from": "Nov 2021",
+      "to": "Present",
+      "description-bullets": [
+        "Worked for international clients in a dynamic environment",
+        "Consulted designers regularly for visual and UX improvements",
+        "Implemented mandatory features and refined existing ones",
+        "Conducted Unit/Widget Testing",
+        "Conducted Code Reviews"
+      ]
+    },
+    {
+      "company": "Self-employed",
+      "position": "Senior Flutter Engineer",
+      "from": "Nov 2021",
+      "to": "Present",
+      "description-bullets": [
+        "GitHub - https://github.com/Tkko",
+        "Maintaining several open source projects on GitHub",
+        "Published and Supported Pinput",
+        "Published and Supported Dismissible Page",
+        "Reviewed and Merged PRs",
+        "Fixed 20+ issues",
+        "Contributed Flutter projects"
+      ]
+    },
+    {
+      "company": "Dentos",
+      "position": "Senior Flutter Engineer",
+      "from": "Sep 2021",
+      "to": "Oct 2021",
+      "description-bullets": [
+        "Refactored and added features into existing Codebase",
+        "Fixed 20+ Issues",
+        "Published on Appstore and PlayStore"
+      ]
+    },
+    {
+      "company": "MY.GE",
+      "position": "Application Development Team Lead",
+      "from": "Nov 2020",
+      "to": "Nov 2021",
+      "description-bullets": [
+        "Led application development team of 6 peers",
+        "Launched 4+ rated applications (Mymarket and Mygarage) on time",
+        "Managed publishing the app on PlayStore and AppStore",
+        "Monitored and supported existing application",
+        "Conducted code reviews",
+        "Interviewed, recruited, mentored, and guided 50+ developers through the onboarding process",
+        "Managed Agile meeting",
+        "Project planning",
+        "Conducted Brainstorming sessions",
+        "Used CI/CD"
+      ]
+    },
+    {
+      "company": "MY.GE",
+      "position": "Flutter Developer",
+      "from": "Oct 2019",
+      "to": "Dec 2020",
+      "description-bullets": [
+        "Reduced time to market period by 64% by Initiating Flutter as a main mobile framework",
+        "Developed Cross-Platform App with Flutter",
+        "Launched Myauto - (160K MAU). Installs exceeded annual KPI by 200% and total revenue rose by 38%",
+        "Built and implemented complex UI patterns & Animations",
+        "Used and developed third party packages / libraries",
+        "Managed publishing the app on PlayStore and AppStore",
+        "Monitored and supported existing application"
+      ]
+    },
+    {
+      "company": "MY.GE",
+      "position": "Frontend Developer",
+      "from": "Aug 2018",
+      "to": "Dec 2019",
+      "description-bullets": [
+        "Developed 4 PWAs with Angular",
+        "Used and developed third party packages / libraries",
+        "Worked with modern frameworks to develop responsive solutions using a mobile-first methodology",
+        "Monitored and supported existing application"
+      ]
+    },
+    {
+      "company": "Wepark",
+      "position": "Android Developer",
+      "from": "Aug 2017",
+      "to": "Sep 2018",
+      "description-bullets": [
+        "Developed an android app used by drivers to help one another easily find a parking spot",
+        "Iterated and created user-centric solutions for Wepark",
+        "Technologies: Android SDK, Java, Kotlin"
+      ]
+    },
+    {
+      "company": "Wepark",
+      "position": "Junior Software Engineer",
+      "from": "May 2017",
+      "to": "July 2017",
+      "description-bullets": [
+        "Developed Android application, that was prototype of future startup",
+        "Technologies: Android SDK, Java"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Caucasus University",
+      "degree": "Bachelor's degree, Computer Science",
+      "from": "2016",
+      "to": "2020"
+    }
+  ]
+}
