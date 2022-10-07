@@ -1,5 +1,5 @@
-
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Tornike,</h1>
+<h3 align="center">Flutter Engineer, Building Pixel Perfect Mobile/Web Apps</h3>
 
 - 🚀 Mobile Engineer
 - 📫 How to reach me: <a href="https://linkedin.com/in/thornike">LinkedIn</a>
@@ -7,15 +7,26 @@
 - 💡 To get readme like this, create a repository with a name that matches your GitHub username.
 
 
-#### Languages and Frameworks
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/tornike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tornike" height="30" width="40" /></a>
+<a href="https://twitter.com/thornike_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thornike_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thornike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thornike" height="30" width="40" /></a>
+<a href="https://medium.com/@thornike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thornike" height="30" width="40" /></a>
+</p>
 
-<!-- TODO: Make technologies links takes you to repositories -->
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](#) [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](#)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 
-![Profile Visit](https://komarev.com/ghpvc/?username=Tkko&color=green&label=Profile+Views)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tkko&label=Profile%20views&color=0e75b6&style=plastic" alt="tkko" /> </p>
 
 [![Pinput](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=Flutter_pinput&hide=cpp,c++,cmake,html&theme=vue-dark)](https://github.com/tkko/Flutter_pinput)
 [![Dismissible Page](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=Flutter_dismissible_page&hide=cpp,c++,cmake,html&theme=vue-dark)](https://github.com/tkko/Flutter_dismissible_page)
 [![Flutter Smart Auth](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=flutter_smart_auth&hide=cpp,c++,cmake,html&theme=vue-dark)](https://github.com/Tkko/flutter_smart_auth)
 [![Top Freelance Platforms And Referrals](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=top_freelance_platforms_and_referrals&theme=vue-dark)](https://github.com/tkko/top_freelance_platforms_and_referrals)
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkko&show_icons=true&locale=en&theme=vue-dark" alt="tkko" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tkko&theme=vue-dark" alt="tkko" /></p>
