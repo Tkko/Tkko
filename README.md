@@ -4,8 +4,8 @@
 - 🚀 Mobile Engineer
 - 📫 How to reach me: <a href="https://linkedin.com/in/thornike">LinkedIn</a>
 - ☝️ Open to Remote/Relocate
-- 💡 To get readme like this, create a repository with a name that matches your GitHub username.
-
+- 💡 To get readme like this, create a repository with the name that matches your GitHub username.
+- 👨‍💻 More info is available on [tornike.dev](https://tornike.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
