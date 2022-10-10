@@ -19,14 +19,14 @@
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 
+<!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkko&label=Profile%20views&color=0e75b6&style=plastic" alt="tkko" /> </p>
 
 [![Pinput](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=Flutter_pinput&hide=cpp,c++,cmake,html&theme=vue-dark)](https://github.com/tkko/Flutter_pinput)
 [![Dismissible Page](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=Flutter_dismissible_page&hide=cpp,c++,cmake,html&theme=vue-dark)](https://github.com/tkko/Flutter_dismissible_page)
 [![Flutter Smart Auth](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=flutter_smart_auth&hide=cpp,c++,cmake,html&theme=vue-dark)](https://github.com/Tkko/flutter_smart_auth)
 [![Top Freelance Platforms And Referrals](https://github-readme-stats.vercel.app/api/pin/?username=tkko&repo=top_freelance_platforms_and_referrals&theme=vue-dark)](https://github.com/tkko/top_freelance_platforms_and_referrals)
+--->
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkko&show_icons=true&locale=en&theme=vue-dark" alt="tkko" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tkko&theme=vue-dark" alt="tkko" /></p>
+![dd](https://github-readme-stats.vercel.app/api?username=tkko&show_icons=true&locale=en&theme=vue-dark)
+![dss](https://github-readme-streak-stats.herokuapp.com/?user=tkko&theme=vue-dark)
