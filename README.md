@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Engineer, Building Pixel Perfect Mobile/Web Apps</h3>
 
 - 🚀 Mobile Engineer
-- 📫 How to reach me: <a href="https://linkedin.com/in/thornike">LinkedIn</a>
+- 📫 Reach out on: <a href="https://linkedin.com/in/thornike">LinkedIn</a>
 - ☝️ Open to Remote/Relocate
 - 💡 To get readme like this, create a repository with the name that matches your GitHub username.
 - 👨‍💻 More info is available on [tornike.dev](https://tornike.dev)
@@ -33,3 +33,5 @@
 
 ![dd](https://github-readme-stats.vercel.app/api?username=tkko&show_icons=true&locale=en&theme=vue-dark)
 ![dss](https://github-readme-streak-stats.herokuapp.com/?user=tkko&theme=vue-dark)
+
+<a href="https://www.jobdistricts.com/"><img width="100%" alt="Top freelance platforms for developers" src="https://user-images.githubusercontent.com/26390946/218305238-66ecc2cc-f304-4157-971d-98251336e278.png"/></a>
