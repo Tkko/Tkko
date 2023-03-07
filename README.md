@@ -8,7 +8,7 @@
 - 👨‍💻 More info is available on [tornike.dev](https://tornike.dev)
 - 😡 Russia is a bully, It invaded Georgia in 2008, Ukraine in 2014 and Ukraine in 2022 (again)
 - 🖕 Putin
-- 🤘 I don't give a shit about the "code of conduct" when people are suffering/dying
+- 🤘 I don't give a 💩 about the "code of conduct" when people are suffering/dying
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
